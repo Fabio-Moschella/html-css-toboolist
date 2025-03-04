@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(240, 240, 240);
+}
+
+/* header */
+
+header {
+  padding: 20px;
+  background-color: white;
+}
+header img {
+  vertical-align: middle;
+}
+.heading-text {
+  font-size: 3rem;
+  font-weight: 600;
+
+  vertical-align: middle;
+}
+
+.main-center {
+  margin: 200px;
+  text-align: left;
+}
+.button1 {
+  background-color: rgb(14, 127, 219);
+  color: white;
+
+  border-radius: 5px;
+  padding: 4px;
+}
+.button2 {
+  color: lightgrey;
+  background-color: white;
+  border-radius: 5px;
+  padding: 4px;
+}
+h2 {
+  padding-top: 30px;
+}
+.task1 {
+  font-size: 1rem;
+}
+div span button {
+  background-color: rgb(14, 127, 219);
+
+  color: white;
+  padding: 4px;
+  border-radius: 10px;
+}
